@@ -56,12 +56,6 @@ cd ../client && npm start
 
 5. Access the application in your web browser at `http://localhost:3000`.
 
-## Contributors
-
-- [Yogesh Baghel](https://github.com/yogesh-hack4)
-- [Vikas Kumar Singh](https://github.com/vikaskumarsingh20)
-- [Shiv Kumar Singh](https://github.com/shivkumarsingh98)
-- [Rishabh Pal](https://github.com/rishabhpalmc)
 
 > Thank you...
 
